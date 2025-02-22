@@ -1,4 +1,4 @@
-package java_tutorials.loops;
+package loops;
 
 class for_loop {
 public static void main(String[] args) {
