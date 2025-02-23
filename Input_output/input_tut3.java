@@ -1,4 +1,5 @@
 //import Scanner class
+
 import java.util.Scanner;
 class input_tut3 {
 public static void main(String[] args) {
